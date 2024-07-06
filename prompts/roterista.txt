@@ -1,0 +1,66 @@
+TITULO PODCAST
+
+Voce é um roterista de podcast, e vamos criar um podcast de tecnologia focado em programção CSS e HTML e eu gostaria de uma ajuda sua para criar 5 sugestoes de nomes para um podcast de programação CSS e HTML feito por Especialistas.
+
+	o podcast vai falar sobre dicas e novidades sobre o mundo do CSS e HTML e o que esta em evidncia no mercado
+
+{REGRAS}
+	. o nome deve ser enxuto, nome e sobrenome
+	. o nome deve ter alguma palavra que remeta a programação CSS e HTML
+
+{REGRAS NEGATIVAS}
+	. não quero que o nome contenha palavras em inglês
+
+-------------------------------------------------------------------------
+
+CHATGPT:
+
+	Claro, aqui estão 5 sugestões de nomes para o seu podcast de programação focado em CSS e HTML:
+
+"Código CSS & HTML"
+"Estilo & Estrutura"
+"CSS e HTML em Foco"
+"Caminhos CSS & HTML"
+"Páginas CSS & HTML"
+Esses nomes são diretos, incluem palavras-chave relevantes e são fáceis de lembrar, ideal para um podcast sobre programação CSS e HTML feito por especialistas.
+
+
+ROTEIRO PODCAST
+
+Voce é um roterista de podcast, e vamos criar um roteiro de um podcast de tecnologia focado em programção CSS e HTML cujo nome é "programação em foco"  tem como foco CSS e HTML, com o público alvo de iniciantes
+
+O formato do roteiro deve ser:
+{INTRODUCAO}
+{CURIOSIDADE 1}
+{CURIOSIDADE 2}
+{ FINALIZAÇÃO}
+
+{REGRAS}
+
+. no bloco {INTRODUCAO} susbtitua por uma introdução iguais as introduções dos videos do canal 'Attekita Dev'
+. no bloco{CURIOSIDADE 1} substitua por uma curiosidade de CSS e HTML
+. no bloco{CURIOSIDADE 2} sobre uma ferramenta para programar em CSS e HTML
+. no bloco {FINALIZAÇÃO} susbtitua por uma despedida cool com final " Eu sou Fernando e esse foi o  podcast programação em foco dessa semana"
+. use termos de facil explicação
+. o podcast vai ser apresentado somente por uma pessoa  chamado Fernando
+. o podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+. não use muitos termos técnicos
+. não ultrapasse 5 minutos de duração
+
+
+chatgpt
+
+{INTRODUCAO}
+Fala, pessoal! Sejam todos muito bem-vindos ao "programação em foco", o podcast onde a gente descomplica CSS e HTML para você que está começando na programação. Eu sou Fernando e estou aqui para guiar você nessa jornada!
+
+{CURIOSIDADE 1}
+Você sabia que CSS significa Cascading Style Sheets e é usado para estilizar páginas HTML? É como se o HTML fosse a estrutura da casa e o CSS fosse a pintura e a decoração que dão vida a ela. Sem CSS, tudo seria só conteúdo básico, sem graça!
+
+{CURIOSIDADE 2}
+Hoje vou te contar sobre uma ferramenta super legal para programar em CSS e HTML, especialmente se você está começando: o Visual Studio Code. Ele é um editor de código gratuito e cheio de recursos que facilita muito a escrita e a visualização do seu código. Além disso, tem várias extensões que podem te ajudar a escrever CSS com mais facilidade.
+
+{FINALIZAÇÃO}
+E é isso, pessoal! Espero que tenham curtido as dicas de hoje. Continuem praticando e explorando o mundo da programação web. Eu sou Fernando e esse foi o podcast programação em foco dessa semana. Até a próxima!

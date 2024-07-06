@@ -1,0 +1,31 @@
+## 🧠 Prompts
+
+
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Voce é um roterista de podcast, e vamos criar um podcast de tecnologia focado em programção CSS e HTML e eu gostaria de uma ajuda sua para criar 5 sugestoes de nomes para um podcast de programação CSS e HTML feito por Especialistas. O podcast vai falar sobre dicas e novidades sobre o mundo do CSS e HTML e o que esta em evidncia no mercado. {REGRAS}. o nome deve ser enxuto, nome e sobrenome . o nome deve ter alguma palavra que remeta a programação CSS e HTML {REGRAS NEGATIVAS} . não quero que o nome contenha palavras em inglês|
+| conteúdo | Voce é um roterista de podcast, e vamos criar um roteiro de um podcast de tecnologia focado em programção CSS e HTML cujo nome é "programação em foco"  tem como foco CSS e HTML, com o público alvo de iniciantes
+
+O formato do roteiro deve ser:
+{INTRODUCAO}
+{CURIOSIDADE 1}
+{CURIOSIDADE 2}
+{ FINALIZAÇÃO}
+
+{REGRAS}
+
+. no bloco {INTRODUCAO} susbtitua por uma introdução iguais as introduções dos videos do canal 'Attekita Dev'
+. no bloco{CURIOSIDADE 1} substitua por uma curiosidade de CSS e HTML
+. no bloco{CURIOSIDADE 2} sobre uma ferramenta para programar em CSS e HTML
+. no bloco {FINALIZAÇÃO} susbtitua por uma despedida cool com final " Eu sou Fernando e esse foi o  podcast programação em foco dessa semana"
+. use termos de facil explicação
+. o podcast vai ser apresentado somente por uma pessoa  chamado Fernando
+. o podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+. não use muitos termos técnicos
+. não ultrapasse 5 minutos de duração |
+
